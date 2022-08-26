@@ -1,7 +1,5 @@
-# The-Ghost1
+# The Ghost1 - WRO-2022
 Equipo de Robótica The Ghost1
-
-# The Ghost1 - WRO-2022 
 Matt es un robot que esta programado para conducir de forma autónoma con el uso de sensores y motores del equipo de LEGO MINDSTORMS Inventor 51515.
 
 #### Detalles del equipo:
@@ -21,23 +19,33 @@ Este repositorio abarca, un reporte detallado del robot Matt que participa en la
 
 #### Fotos del equipo:
 (i). Foto formal.
-https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/1_EquipoFormal.JPG
+![Foto Formal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/1_EquipoFormal.JPG)
+
 (ii). Foto informal.
+![Foto Informal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/2_EquipoInformal.JPG)
+
 https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/2_EquipoInformal.JPG
 
 Fotos del robot:
 (i).	Cara frontal
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/3_CaraFrontal.JPG
+![Cara Frontal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/3_CaraFrontal.JPG)
+
 (ii).	Cara Posterior
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/4_CaraPosterior.JPG 
+![Cara Posterior](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/4_CaraPosterior.JPG)
+
+https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/ 
 (iii).	Cara Izquierda
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/5_CaraIzquierda.JPG
+![Cara Izquierda](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/5_CaraIzquierda.JPG)
+
 (iv).	Cara Derecha
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/6_CaraDerecha.JPG
+![Foto Derecha](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/6_CaraDerecha.JPG)
+
 (v).	Cara Superior 
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/7_CaraSuperior.JPG
+![Cara Superior](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/7_CaraSuperior.JPG)
+
 (vi).	Cara inferior
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/8_CaraInferior.JPG
+![Cara Inferior](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/8_CaraInferior.JPG)
+
 
 **Enlace al video en Youtube**:
 
