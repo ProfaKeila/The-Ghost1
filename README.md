@@ -50,11 +50,13 @@ Fotos del robot:
 ![8_CaraInferior](https://user-images.githubusercontent.com/112026718/186886882-70d9fcf2-50d6-457e-8f94-c3bfdb6446e1.JPG)
 
 **Enlace al video en Youtube**:
+Video del Robot
+[![Robot](https://user-images.githubusercontent.com/112026718/186887095-adb8094b-c6cf-42f0-8161-6a882d7e8b08.JPG)](https://youtu.be/uSIBtOydG14)
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
 ![9_Diagrama](https://user-images.githubusercontent.com/112026718/186886847-5128a130-c529-492b-bd1c-2ed668875eb0.jpg)
-
+![10_Hub](https://user-images.githubusercontent.com/112026718/186889496-bd9f22ae-f5fc-4ada-b9a1-c81e0d1515f2.jpg)
 
 Componentes Electromecanicos:
 El Robot Matt se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
