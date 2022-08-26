@@ -19,38 +19,42 @@ Este repositorio abarca, un reporte detallado del robot Matt que participa en la
 
 #### Fotos del equipo:
 (i). Foto formal.
-![Foto Formal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/1_EquipoFormal.JPG)
+![1_EquipoFormal](https://user-images.githubusercontent.com/112026718/186887081-0d170402-4681-420f-b0b5-f59b7845427e.JPG)
 
 (ii). Foto informal.
-![Foto Informal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/2_EquipoInformal.JPG)
+![2_EquipoInformal](https://user-images.githubusercontent.com/112026718/186887090-ea81ea34-a021-4fab-961d-ed6f01018d9f.JPG)
 
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/2_EquipoInformal.JPG
 
 Fotos del robot:
 (i).	Cara frontal
-![Cara Frontal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/3_CaraFrontal.JPG)
+![3_CaraFrontal](https://user-images.githubusercontent.com/112026718/186887095-adb8094b-c6cf-42f0-8161-6a882d7e8b08.JPG)
+
 
 (ii).	Cara Posterior
-![Cara Posterior](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/4_CaraPosterior.JPG)
+![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/186887107-2d89f448-2939-498c-bca8-996028674557.JPG)
 
-https:///raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/ 
-(iii).	Cara Izquierda
-![Cara Izquierda](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/5_CaraIzquierda.JPG)
+
+(iii). Cara Izquierda
+![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/186887223-9031ab81-e98e-4f9f-bea8-091909855983.JPG)
+
 
 (iv).	Cara Derecha
-![Foto Derecha](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/6_CaraDerecha.JPG)
+![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/186887136-38c2a2b1-6dbd-491b-8bce-3032d4948643.JPG)
 
-(v).	Cara Superior 
-![Cara Superior](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/7_CaraSuperior.JPG)
+
+(v).	Cara Superior
+![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/186886909-4f5d0b56-659b-4dbb-b70f-d201b487d4dc.JPG)
+
 
 (vi).	Cara inferior
-![Cara Inferior](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/8_CaraInferior.JPG)
-
+![8_CaraInferior](https://user-images.githubusercontent.com/112026718/186886882-70d9fcf2-50d6-457e-8f94-c3bfdb6446e1.JPG)
 
 **Enlace al video en Youtube**:
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
+![9_Diagrama](https://user-images.githubusercontent.com/112026718/186886847-5128a130-c529-492b-bd1c-2ed668875eb0.jpg)
+
 
 Componentes Electromecanicos:
 El Robot Matt se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
