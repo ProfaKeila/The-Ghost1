@@ -49,7 +49,9 @@ Fotos del robot:
 (vi).	Cara inferior
 ![8_CaraInferior](https://user-images.githubusercontent.com/112026718/186886882-70d9fcf2-50d6-457e-8f94-c3bfdb6446e1.JPG)
 
-**Enlace al video en Youtube**:
+------------
+
+## **Enlace al video en Youtube**:
 Video del Robot
 [![Robot](https://user-images.githubusercontent.com/112026718/186887095-adb8094b-c6cf-42f0-8161-6a882d7e8b08.JPG)](https://youtu.be/uSIBtOydG14)
 
