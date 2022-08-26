@@ -19,7 +19,7 @@ Este repositorio abarca, un reporte detallado del robot Matt que participa en la
 
 #### Fotos del equipo:
 (i). Foto formal.
-![Foto Formal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/1_EquipoFormal.JPG)
+![Foto Formal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/1_EquipoFormal.JPG)
 
 (ii). Foto informal.
 ![Foto Informal](https://raw.githubusercontent.com/ProfaKeila/The-Ghost1/blob/main/Fotos/assets/2_EquipoInformal.JPG)
