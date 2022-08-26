@@ -53,7 +53,10 @@ Fotos del robot:
 
 ## **Enlace al video en Youtube**:
 Video del Robot
-https://youtu.be/uSIBtOydG14
+https://youtu.be/fy_hV3NO_VI
+
+Dando vueltas
+https://youtu.be/-bvB2V3nbc8
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
