@@ -58,6 +58,11 @@ https://youtu.be/fy_hV3NO_VI
 Dando vueltas
 https://youtu.be/-bvB2V3nbc8
 
+Evitando obstaculos
+https://youtu.be/pBEFuexwxLQ
+
+[![Alt text](https://user-images.githubusercontent.com/112026718/188289046-21d2a2c2-9a2a-4884-90e8-226ff7e958cb.gif)](https://youtu.be/pBEFuexwxLQ)
+
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
 ![9_Diagrama](https://user-images.githubusercontent.com/112026718/186886847-5128a130-c529-492b-bd1c-2ed668875eb0.jpg)
