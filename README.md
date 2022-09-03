@@ -57,7 +57,8 @@ Diseño del Robot
 [![Alt text](https://user-images.githubusercontent.com/112026718/188289252-e8c625f3-acde-4d6e-ad1b-e7b91fab9a68.gif)](https://youtu.be/fy_hV3NO_VI)
 
 Dando vueltas
-https://youtu.be/-bvB2V3nbc8
+
+[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://youtu.be/-bvB2V3nbc8)
 
 Evitando obstaculos
 
