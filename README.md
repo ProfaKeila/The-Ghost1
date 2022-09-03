@@ -62,7 +62,7 @@ Dando vueltas
 
 Evitando obstaculos
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/188289046-21d2a2c2-9a2a-4884-90e8-226ff7e958cb.gif)](https://youtu.be/pBEFuexwxLQ)
+[![Alt text](https://user-images.githubusercontent.com/112026718/188289545-f1eeb4a0-b45a-4bdb-90fe-f92e0548286c.gif)](https://youtu.be/pBEFuexwxLQ)
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
