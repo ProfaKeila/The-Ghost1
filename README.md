@@ -53,7 +53,6 @@ Fotos del robot:
 
 ## **Enlace al video en Youtube**:
 Diseño del Robot
-![ezgif com-gif-maker(1)]()
 
 [![Alt text](https://user-images.githubusercontent.com/112026718/191231799-e9d25aae-7b5d-4b51-be18-03729a2c69d5.gif)](https://youtu.be/fy_hV3NO_VI)
 
