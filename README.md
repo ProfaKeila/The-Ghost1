@@ -54,11 +54,11 @@ Fotos del robot:
 ## **Enlace al video en Youtube**:
 Diseño del Robot
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/191231799-e9d25aae-7b5d-4b51-be18-03729a2c69d5.gif)](https://youtu.be/fy_hV3NO_VI)
+[![Alt text](https://user-images.githubusercontent.com/112026718/191231799-e9d25aae-7b5d-4b51-be18-03729a2c69d5.gif)](https://www.youtube.com/watch?v=mLL__LjJSn8&feature=youtu.be)
 
 Dando vueltas
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://youtu.be/-bvB2V3nbc8)
+[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://www.youtube.com/watch?v=Wj1oxwJkM2g)
 
 Evitando obstaculos
 
