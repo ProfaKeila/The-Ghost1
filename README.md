@@ -31,27 +31,28 @@ Este repositorio abarca, un reporte detallado del robot Matt que participa en la
 
 Fotos del robot:
 (i).	Cara frontal
-![3_CaraFrontal](https://user-images.githubusercontent.com/112026718/191225455-225db579-e727-48db-8e52-9f586653e58c.jpg)
+![3_CaraFrontal](https://user-images.githubusercontent.com/112026718/193432984-ecdf8438-f0b4-46ed-9c22-d2662dc244c2.jpg)
 
 
 (ii).	Cara Posterior
-![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/191225706-73c5d915-318b-4ac9-bdc6-504a20d6b245.jpg)
+![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/193432998-87ac7ed5-2937-4027-9b74-215c640ac86b.jpg)
 
 
 (iii). Cara Izquierda
-![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/191225964-28b23e6d-de5e-4a00-b93e-219dd5696c92.jpg)
+![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/193433012-d8c25492-30ee-4327-ac31-00a4c2ea4886.jpg)
 
 
 (iv).	Cara Derecha
-![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/191226054-54ec98bc-4917-4d81-a236-e67067756856.jpg)
+![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/193433024-0272fbae-3e4f-4c57-ae59-7a09380b3c4c.jpg)
 
 
 (v).	Cara Superior
-![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/191226207-a2d40660-b0f0-439e-8057-e9dcdf56c9b1.jpg)
+![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/193433026-79a6fb8c-b074-405d-a8d3-09d95ea51ebc.jpg)
 
 
 (vi).	Cara inferior
-![8_CaraInferior](https://user-images.githubusercontent.com/112026718/191226184-7aa397a8-4603-4e90-8bd2-d81198b550fa.jpg)
+![8_CaraInferior](https://user-images.githubusercontent.com/112026718/193433030-43cd69bf-9000-49e9-976e-7fc3357b213b.jpg)
+
 
 ------------
 
