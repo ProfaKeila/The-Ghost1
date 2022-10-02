@@ -4,9 +4,13 @@ Matt es un robot que esta programado para conducir de forma autónoma con el uso
 
 #### Detalles del equipo:
 **Nombre del equipo**: The Ghost1
+
 **País**: Panamá
+
 **Miembros del equipo**: Emanuel Rodriguez, Dilan Samudio.
+
 **Entrenadora**: Keila Chacón
+
 
 #### Material de ingenieria:
 Este repositorio abarca, un reporte detallado del robot Matt que participa en la competencia WRO-FUTUROS INGENIERA en la temporada 2022.
