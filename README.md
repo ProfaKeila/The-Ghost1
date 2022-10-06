@@ -39,7 +39,7 @@ Fotos del robot:
 
 
 (iii). Cara Izquierda
-![5_CaraIzquierda]([https://user-images.githubusercontent.com/112026718/193433012-d8c25492-30ee-4327-ac31-00a4c2ea4886.jpg)
+![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/193433012-d8c25492-30ee-4327-ac31-00a4c2ea4886.jpg)
 
 
 (iv).	Cara Derecha
