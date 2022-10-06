@@ -47,8 +47,7 @@ Fotos del robot:
 
 
 (v).	Cara Superior
-![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/193433026-79a6fb8c-b074-405d-a8d3-09d95ea51ebc.jpg)
-![IMG_20221005_220048](https://user-images.githubusercontent.com/112026718/194213409-a7e521f5-ac22-4e8d-b084-9174e131d3b2.jpg)
+![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/194213409-a7e521f5-ac22-4e8d-b084-9174e131d3b2.jpg)
 
 
 (vi).	Cara inferior
