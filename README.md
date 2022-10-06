@@ -71,7 +71,7 @@ Evitando obstaculos
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
 ![9_Diagrama](https://user-images.githubusercontent.com/112026718/193734227-b36c2675-807e-46a2-b725-986c86bd7985.png)
-![10_Hub](https://user-images.githubusercontent.com/112026718/192102073-1dab5dc1-d92a-4664-9589-0d74e6a056b3.png)
+![10_Hub](https://user-images.githubusercontent.com/112026718/194357794-3e29af98-051e-4cdb-a6f0-d9efc0b8e71a.png)
 
 
 Componentes Electromecanicos:
@@ -80,7 +80,7 @@ El Robot Matt se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inv
 Los alerones funcionan para reducir la resistencia del aire, y descubrimos que al utilizarlo, aumenta la velocidad 40%, dandole mayor rendimiento aerodimanico, además de que permite el enfriamento de los motores, adicional a ello la carga aerodinamica se adhiera al piso, y de mejores giros.
 
 Motores: 
-1.	**Motores traseros**: Estos dos motores en cada rueda, en el motor trasero izquierdo en el puerto E, posee un engranaje que permite la rotación de las ruedas traseras, y son los pilares del movimiento del este robot autónomo, por poseer tracción trasera.
+1.	**Motores traseros**: Estos dos motores interconectados en la rueda, en el motor trasero izquierdo en el puerto E, posee un engranaje que permite la rotación de las ruedas traseras, y son los pilares del movimiento del este robot autónomo, por poseer tracción trasera, se utilizan dos para tener mayor tracción y torque en el movimiento.
 2.	**Motor delantero**: Este motor es quien le da la dirección al robot, y le permite el movimiento en los diferentes sentido.
 
 Sensores:
