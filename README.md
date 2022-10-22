@@ -38,7 +38,7 @@ Robot Pictures
 
 
 
-YouTube Video Link: INSERTAR LINK DEL VIDEO
+YouTube Video Link:
 
 Robot Design
  
