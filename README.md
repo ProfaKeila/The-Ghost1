@@ -1,4 +1,18 @@
-# The Ghost1 - WRO-2022
+# (English version) The Ghost1 - WRO-2022
+Robotics Team The Ghost1
+The Ghost1 Matt is a robot that is programmed to drive autonomously with the use of sensors and motors from the LEGO MINDSTORMS Inventor 51515.
+
+- Team Details
+- Team Name: The Ghost1
+- Country: Panamá
+- Coach: Keila Chacón
+- Team Members: Emanuel Rodriguez, Dilan Samudio.
+
+This repository includes a detailed report of the Matt robot that participates in the WRO-FUTUROS ENGINEERS competence in the 2022 Season.
+
+------------
+
+# (Spanish version) The Ghost1 - WRO-2022
 Equipo de Robótica The Ghost1
 Matt es un robot que esta programado para conducir de forma autónoma con el uso de sensores y motores del equipo de LEGO MINDSTORMS Inventor 51515.
 
@@ -13,7 +27,7 @@ Matt es un robot que esta programado para conducir de forma autónoma con el uso
 
 
 #### Material de ingenieria:
-Este repositorio abarca, un reporte detallado del robot Matt que participa en la competencia WRO-FUTUROS INGENIERA en la temporada 2022.
+Este repositorio abarca, un reporte detallado del robot Matt que participa en la competencia WRO-FUTUROS INGENIEROS en la temporada 2022.
 
 **Datos**:
 **Fotos del Equipo**: Contiene dos fotos del equipo, una formal y otra informal.
