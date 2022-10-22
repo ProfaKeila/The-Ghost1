@@ -10,6 +10,60 @@ The Ghost1 Matt is a robot that is programmed to drive autonomously with the use
 
 This repository includes a detailed information of the Matt robot that participates in the WRO-FUTUROS ENGINEERS competence in the 2022 Season.
 
+Team Pictures: It contains two photos of the team, one formal and one informal.
+Vehicle Photos: Contains six photos of the Robot, From six different angles, the video of the Robot driving is in the following link.
+Sketch: Contains a detailed diagram of the electronic parts and motors of this robot and how they are connected for its operation.
+Connectivity Logic Diagram: Contains an explanation of the software, for the sensors and motors that were programmed for the Robot automation.
+
+(i). Formal photo.
+
+
+(ii). Informal photo.
+
+
+Robot Pictures 
+(i)	Frontal Face 
+
+(ii)	Back 
+
+ 
+(iii)	Left Side
+
+(iv)	Right Side
+ 
+(v)	Upper Side
+                      
+(vi)	Underside
+                     
+
+
+
+YouTube Video Link: INSERTAR LINK DEL VIDEO
+
+Robot Design
+ 
+ 
+
+Schematic diagram: Below is a sketch of all the components
+used electronics.
+
+ 
+ 
+
+Electromechanical Components: The Matt Robot was built using the LEGO MINDSTORMS Inventor 51515 robotics kit.
+Now a brief description of each electromechanical component used for the creation of this autonomous robot.
+The spoilers work to reduce air resistance, and we discovered that when using it, it increases speed by 40%, giving it greater aerodynamic performance, as well as allowing the engines to cool, in addition to this the aerodynamic load adheres to the ground, and therefore best turns.
+
+Motors:
+1.	 Rear motors: These two interconnected motors in the wheel, in the left rear motor in port E, have a gear that allows the rotation of the rear wheels, and are the pillars of the movement of this autonomous robot, as it has rear traction , two of them are used to have greater traction and torque in the movement.
+
+2.	Front Engine: This motor is what gives the robot direction, and allows it to move in different directions.
+Sensors:
+1. Color sensor: Color sensors are used to detect colors to make decisions.
+2. Ultrasonic Sensor: This sensor is mostly used for distance measurement and object avoidance.
+3. Gyroscope Sensor: This sensor is used to precise turns using better angles. Hub: This component is the brain of the Robot, it is the one who tells the motors what to do, and receives the information from the sensors to make the decisions that make this Robot an autonomous vehicle, for its best use it contains a start / off button , and two others left and right.
+
+
 ------------
 
 # (Spanish version) The Ghost1 - WRO-2022
