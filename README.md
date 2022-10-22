@@ -8,7 +8,7 @@ The Ghost1 Matt is a robot that is programmed to drive autonomously with the use
 - Coach: Keila Chacón
 - Team Members: Emanuel Rodriguez, Dilan Samudio.
 
-This repository includes a detailed report of the Matt robot that participates in the WRO-FUTUROS ENGINEERS competence in the 2022 Season.
+This repository includes a detailed information of the Matt robot that participates in the WRO-FUTUROS ENGINEERS competence in the 2022 Season.
 
 ------------
 
