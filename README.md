@@ -129,8 +129,10 @@ Diseño del Robot
 [![Alt text](https://user-images.githubusercontent.com/112026718/193433061-a58f927a-bf96-4ce6-a786-41978796186a.gif)](https://youtu.be/U56eK61VCnY)
 
 Dando vueltas
-
-[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://www.youtube.com/watch?v=Wj1oxwJkM2g)
+Round 1 Fixed center / Ronda 1 Centro Fijo
+[![Alt text](https://user-images.githubusercontent.com/112026718/188289446-870fff3d-0013-49d5-9703-20cf0f7fa475.gif)](https://youtu.be/2XueAw2JKws)
+Round 1 Mobile Center / Ronda 1 Centro Móvil
+[![Alt text](https://user-images.githubusercontent.com/112026718/201544888-fc7a2e47-9dd8-4d0d-9cae-53285449172e.gif)](https://youtu.be/p-i_P51mGfk)
 
 Evitando obstaculos
 
