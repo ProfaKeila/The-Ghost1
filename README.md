@@ -8,7 +8,7 @@ The Ghost1 Matt is a robot that is programmed to drive autonomously with the use
 - Coach: Keila Chacón
 - Team Members: Emanuel Rodriguez, Dilan Samudio.
 
-This repository includes a detailed information of the Matt robot that participates in the WRO-FUTUROS ENGINEERS competence in the 2022 Season.
+This repository includes a detailed information of the Matt robot that participates in the WRO-FUTURE ENGINEERS competence in the 2022 Season.
 
 Team Pictures: It contains two photos of the team, one formal and one informal.
 Vehicle Photos: Contains six photos of the Robot, From six different angles, the video of the Robot driving is in the following link.
@@ -96,29 +96,24 @@ Este repositorio abarca, un reporte detallado del robot Matt que participa en la
 (ii). Foto informal.
 ![2_EquipoInformal](https://user-images.githubusercontent.com/112026718/186887090-ea81ea34-a021-4fab-961d-ed6f01018d9f.JPG)
 
-
 Fotos del robot:
 (i).	Cara frontal
-![3_CaraFrontal](https://user-images.githubusercontent.com/112026718/193432984-ecdf8438-f0b4-46ed-9c22-d2662dc244c2.jpg)
-
+![3_CaraFrontal]((https://user-images.githubusercontent.com/112026718/201546216-843a4c68-539f-4312-9153-badf0156d9fa.jpg)
 
 (ii).	Cara Posterior
-![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/194215692-578b80eb-e417-4e63-bfca-0ccc1cc1b11e.jpg)
-
+![4_CaraPosterior]([https://user-images.githubusercontent.com/112026718/194215692-578b80eb-e417-4e63-bfca-0ccc1cc1b11e.jpg](https://user-images.githubusercontent.com/112026718/201546264-77172d85-d6cc-4784-949b-11ad88126aed.jpg)
 
 (iii). Cara Izquierda
-![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/194214689-6cde2df0-e7d0-4c16-8b1a-2f839a3bedda.jpg)
+![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/201546269-061d6054-ab26-4897-be73-92f326c7d745.jpg)
 
 (iv).	Cara Derecha
-![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/193433024-0272fbae-3e4f-4c57-ae59-7a09380b3c4c.jpg)
-
+![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/201546273-9a538390-bd10-4e0a-8457-2955d7f30be5.jpg)
 
 (v).	Cara Superior
-![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/194213409-a7e521f5-ac22-4e8d-b084-9174e131d3b2.jpg)
-
+![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/201546268-cf412fa4-b449-47d1-a5ff-ad15e24e3c10.jpg)
 
 (vi).	Cara inferior
-![8_CaraInferior](https://user-images.githubusercontent.com/112026718/194211989-b8cd3d10-6574-4103-8a96-77b9a9c7f4f1.jpg)
+![8_CaraInferior](https://user-images.githubusercontent.com/112026718/201546276-4f904db6-6c00-4778-97b2-4fe638a978f9.jpg)
 
 
 ------------
