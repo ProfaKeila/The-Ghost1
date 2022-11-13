@@ -98,10 +98,10 @@ Este repositorio abarca, un reporte detallado del robot Matt que participa en la
 
 Fotos del robot:
 (i).	Cara frontal
-![3_CaraFrontal]((https://user-images.githubusercontent.com/112026718/201546216-843a4c68-539f-4312-9153-badf0156d9fa.jpg)
+![3_CaraFrontal](https://user-images.githubusercontent.com/112026718/201546216-843a4c68-539f-4312-9153-badf0156d9fa.jpg)
 
 (ii).	Cara Posterior
-![4_CaraPosterior]([https://user-images.githubusercontent.com/112026718/194215692-578b80eb-e417-4e63-bfca-0ccc1cc1b11e.jpg](https://user-images.githubusercontent.com/112026718/201546264-77172d85-d6cc-4784-949b-11ad88126aed.jpg)
+![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/201546264-77172d85-d6cc-4784-949b-11ad88126aed.jpg)
 
 (iii). Cara Izquierda
 ![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/201546269-061d6054-ab26-4897-be73-92f326c7d745.jpg)
