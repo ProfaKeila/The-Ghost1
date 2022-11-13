@@ -104,16 +104,16 @@ Fotos del robot:
 ![4_CaraPosterior](https://user-images.githubusercontent.com/112026718/201546264-77172d85-d6cc-4784-949b-11ad88126aed.jpg)
 
 (iii). Cara Izquierda
-![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/201546269-061d6054-ab26-4897-be73-92f326c7d745.jpg)
+![5_CaraIzquierda](https://user-images.githubusercontent.com/112026718/201546273-9a538390-bd10-4e0a-8457-2955d7f30be5.jpg)
 
 (iv).	Cara Derecha
-![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/201546273-9a538390-bd10-4e0a-8457-2955d7f30be5.jpg)
+![6_CaraDerecha](https://user-images.githubusercontent.com/112026718/201546269-061d6054-ab26-4897-be73-92f326c7d745.jpg)
 
 (v).	Cara Superior
-![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/201546268-cf412fa4-b449-47d1-a5ff-ad15e24e3c10.jpg)
+![7_CaraSuperior](https://user-images.githubusercontent.com/112026718/201546276-4f904db6-6c00-4778-97b2-4fe638a978f9.jpg)
 
 (vi).	Cara inferior
-![8_CaraInferior](https://user-images.githubusercontent.com/112026718/201546276-4f904db6-6c00-4778-97b2-4fe638a978f9.jpg)
+![8_CaraInferior](https://user-images.githubusercontent.com/112026718/201546268-cf412fa4-b449-47d1-a5ff-ad15e24e3c10.jpg)
 
 
 ------------
