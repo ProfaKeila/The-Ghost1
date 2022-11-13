@@ -120,9 +120,9 @@ Fotos del robot:
 
 ## **Enlace al video en Youtube**:
 Diseño del Robot
-![guif construcción ](https://user-images.githubusercontent.com/112026718/201550395-60bba458-29f0-4cc2-a92a-79ca1521a143.gif)
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/193433061-a58f927a-bf96-4ce6-a786-41978796186a.gif)](https://youtu.be/U56eK61VCnY)
+[![Alt text](https://user-images.githubusercontent.com/112026718/201550395-60bba458-29f0-4cc2-a92a-79ca1521a143.gif)
+
 
 Dando vueltas
 Round 1 Fixed center / Ronda 1 Centro Fijo
