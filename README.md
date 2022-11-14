@@ -59,7 +59,7 @@ Motors:
 
 2.	Front Engine: This motor is what gives the robot direction, and allows it to move in different directions.
 Sensors:
-1. Color sensor: Color sensors are used to detect colors to make decisions.
+1. HuskyLens Camera: Taken as the color sensor replacement of the inventor kit set, it adopts the new generation of AI chips, it is used for color and shape recognition of objects called obstacles.
 2. Ultrasonic Sensor: This sensor is mostly used for distance measurement and object avoidance.
 3. Gyroscope Sensor: This sensor is used to precise turns using better angles. Hub: This component is the brain of the Robot, it is the one who tells the motors what to do, and receives the information from the sensors to make the decisions that make this Robot an autonomous vehicle, for its best use it contains a start / off button , and two others left and right.
 
@@ -146,11 +146,11 @@ El Robot Matt se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inv
 Los alerones funcionan para reducir la resistencia del aire, y descubrimos que al utilizarlo, aumenta la velocidad 40%, dandole mayor rendimiento aerodimanico, además de que permite el enfriamento de los motores, adicional a ello la carga aerodinamica se adhiera al piso, y de mejores giros.
 
 Motores: 
-1.	**Motores traseros**: Estos dos motores interconectados en la rueda, en el motor trasero izquierdo en el puerto E, posee un engranaje que permite la rotación de las ruedas traseras, y son los pilares del movimiento del este robot autónomo, por poseer tracción trasera, se utilizan dos para tener mayor tracción y torque en el movimiento.
+1.	**Motores traseros**: Estos tres motores interconectados en la rueda, en el motor trasero izquierdo en el puerto E, posee un engranaje que permite la rotación de las ruedas traseras, y son los pilares del movimiento del este robot autónomo, por poseer tracción trasera, se utilizan dos para tener mayor tracción y torque en el movimiento.
 2.	**Motor delantero**: Este motor es quien le da la dirección al robot, y le permite el movimiento en los diferentes sentido.
 
 Sensores:
-1.	Sensor de color: Los sensores de color, se utilizo para la detección de los colores para tomar decisiones. 
+1.	Cámara HuskyLens: tomada como reemplazo de sensor de color del set del inventor kit,  adopta la nueva generación de chips de IA, es utilizada para el reconocimiento de color y forma de objetos llamados obstáculos. 
 2.	Sensor Ultrasonico: Este sensor se utiliza en su mayoría de veces para la medición de distancias y evasión de objetos.
 3.	Sensor Giroscopio: Este sensor se utiliza para precisar giros utilizando mejor los ángulos.
 Hub: Este componente es el cerebro del robot, es quien indica a los motores que hacer, y recibe la información de los sensores para tomar las decisiones que vuelven a este robot un vehículo autónomo, para su mejor utilidad contiene un botón de inicio /apagado, y otros dos de izquierda y derecha.
