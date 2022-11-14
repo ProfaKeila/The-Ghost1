@@ -137,6 +137,9 @@ Evitando obstaculos
 
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
+![guif construcción](https://user-images.githubusercontent.com/112026718/201568463-f32da675-d59d-4ada-b95d-bd87aebf5f9b.gif)
+
+
 ![9_Diagrama](https://user-images.githubusercontent.com/112026718/193734227-b36c2675-807e-46a2-b725-986c86bd7985.png)
 ![10_Hub](https://user-images.githubusercontent.com/112026718/194357794-3e29af98-051e-4cdb-a6f0-d9efc0b8e71a.png)
 
