@@ -121,8 +121,7 @@ Fotos del robot:
 ## **Enlace al video en Youtube**:
 Diseño del Robot
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/201550395-60bba458-29f0-4cc2-a92a-79ca1521a143.gif)
-
+[![Alt text](https://user-images.githubusercontent.com/112026718/201550395-60bba458-29f0-4cc2-a92a-79ca1521a143.gif)](https://youtu.be/oPJUW5as5pk))
 
 Dando vueltas
 
