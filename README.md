@@ -55,7 +55,7 @@ Now a brief description of each electromechanical component used for the creatio
 The spoilers work to reduce air resistance, and we discovered that when using it, it increases speed by 40%, giving it greater aerodynamic performance, as well as allowing the engines to cool, in addition to this the aerodynamic load adheres to the ground, and therefore best turns.
 
 Motors:
-1.	 Rear motors: These two interconnected motors in the wheel, in the left rear motor in port E, have a gear that allows the rotation of the rear wheels, and are the pillars of the movement of this autonomous robot, as it has rear traction , two of them are used to have greater traction and torque in the movement.
+1.	 Rear motors: These three interconnected motors in the wheel, in the left rear motor in port E, have a gear that allows the rotation of the rear wheels, and are the pillars of the movement of this autonomous robot, as it has rear traction , two of them are used to have greater traction and torque in the movement.
 
 2.	Front Engine: This motor is what gives the robot direction, and allows it to move in different directions.
 Sensors:
