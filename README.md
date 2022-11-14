@@ -141,7 +141,7 @@ A continuación se presenta un boceto de todos los componentes electrónicos uti
 ![guif construcción](https://user-images.githubusercontent.com/112026718/201570555-7cdde8ad-c253-4419-8a43-3e3caded1163.gif)
 
 
-[Diagrama del hub](https://user-images.githubusercontent.com/112026718/201570175-7d4e6c79-e1e1-46af-abbf-3495805a4f43.gif)
+[![Alt text](https://user-images.githubusercontent.com/112026718/201570175-7d4e6c79-e1e1-46af-abbf-3495805a4f43.gif)
 
 
 
