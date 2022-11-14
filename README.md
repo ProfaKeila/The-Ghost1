@@ -138,10 +138,7 @@ Evitando obstaculos
 Diagrama esquematico:
 A continuación se presenta un boceto de todos los componentes electrónicos utilizados.
 ![guif c![Diagrama del hub](https://user-images.githubusercontent.com/112026718/201570175-7d4e6c79-e1e1-46af-abbf-3495805a4f43.gif)
-onstrucción](https://user-images.githubusercontent.com/112026718/201568463-f32da675-d59d-4ada-b95d-bd87aebf5f9b.gif)
 
-
-![10_Hub](https://user-images.githubusercontent.com/112026718/194357794-3e29af98-051e-4cdb-a6f0-d9efc0b8e71a.png)
 
 
 Componentes Electromecanicos:
